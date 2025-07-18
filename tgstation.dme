@@ -10535,4 +10535,5 @@
 #include "modular_zzz\modules\uplink\job.dm"
 #include "modular_zzz\modules\uplink\suits.dm"
 #include "modular_zzz\modules\void\void.dm"
+#include "modular_zzz\code\modules\loadout\categories\toys.dm"
 // END_INCLUDE
