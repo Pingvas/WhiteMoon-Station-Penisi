@@ -843,6 +843,21 @@
 	attack_verb_continuous = list("whinnies", "gallops", "prances", "magicks")
 	attack_verb_simple = list("whinny", "gallop", "prance", "magick")
 
+// WM Add
+
+/obj/item/toy/plush/millie
+	name = "Millie plush"
+	desc = "A cute pink girl. The soft silicone gives off a pleasant strawberry-raspberry scent. When you squeeze the doll slightly, her tongue comes out in a funny way."
+	icon_state = "millie"
+	lefthand_file = 'modular_whitemoon/icons/mob/inhands/millie_lefthand.dmi'
+	righthand_file = 'modular_whitemoon/icons/mob/inhands/millie_righthand.dmi'
+	squeak_override = list('modular_whitemoon/sounds/plush/milp1.ogg' = 1,
+							'modular_whitemoon/sounds/plush/milp2.ogg' = 1,
+							'modular_whitemoon/sounds/plush/milp3.ogg' = 1,
+							'modular_whitemoon/sounds/plush/milp5.ogg' = 1)
+
+// WM Add END
+
 /obj/item/toy/plush/monkey
 	name = "monkey plushie"
 	desc = "The tag reads: 'Oop eek! I'm a chimpanzee!', with 'Now in JUMBO SIZE!' on the flipside."

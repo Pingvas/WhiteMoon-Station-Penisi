@@ -1,3 +1,11 @@
+// WM add
+
+/datum/loadout_item/toys/Millie_plush
+	name = "Millie plush"
+	item_path = /obj/item/toy/plush/millie
+
+// WM add END
+
 /datum/loadout_item/toys/moffplush_lovers
 	name = "Lovers Moth Plushie"
 	item_path = /obj/item/toy/plush/moth/lovers
